@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/Anupam-dagar/GitHub-Education-Portfolio/static/css/main.34de6062.chunk.css",
-    "main.js": "/Anupam-dagar/GitHub-Education-Portfolio/static/js/main.3b979122.chunk.js",
-    "main.js.map": "/Anupam-dagar/GitHub-Education-Portfolio/static/js/main.3b979122.chunk.js.map",
-    "runtime~main.js": "/Anupam-dagar/GitHub-Education-Portfolio/static/js/runtime~main.abc37148.js",
-    "runtime~main.js.map": "/Anupam-dagar/GitHub-Education-Portfolio/static/js/runtime~main.abc37148.js.map",
-    "static/js/2.5a08db1e.chunk.js": "/Anupam-dagar/GitHub-Education-Portfolio/static/js/2.5a08db1e.chunk.js",
-    "static/js/2.5a08db1e.chunk.js.map": "/Anupam-dagar/GitHub-Education-Portfolio/static/js/2.5a08db1e.chunk.js.map",
-    "index.html": "/Anupam-dagar/GitHub-Education-Portfolio/index.html",
-    "precache-manifest.56e92a50eabd1a7dccf0d4b39d425e43.js": "/Anupam-dagar/GitHub-Education-Portfolio/precache-manifest.56e92a50eabd1a7dccf0d4b39d425e43.js",
-    "service-worker.js": "/Anupam-dagar/GitHub-Education-Portfolio/service-worker.js",
-    "static/css/main.34de6062.chunk.css.map": "/Anupam-dagar/GitHub-Education-Portfolio/static/css/main.34de6062.chunk.css.map",
-    "static/media/profile.jpg": "/Anupam-dagar/GitHub-Education-Portfolio/static/media/profile.8a396670.jpg"
+    "main.css": "/GitHub-Education-Portfolio/static/css/main.34de6062.chunk.css",
+    "main.js": "/GitHub-Education-Portfolio/static/js/main.73da4c01.chunk.js",
+    "main.js.map": "/GitHub-Education-Portfolio/static/js/main.73da4c01.chunk.js.map",
+    "runtime~main.js": "/GitHub-Education-Portfolio/static/js/runtime~main.60ee6b4b.js",
+    "runtime~main.js.map": "/GitHub-Education-Portfolio/static/js/runtime~main.60ee6b4b.js.map",
+    "static/js/2.5a08db1e.chunk.js": "/GitHub-Education-Portfolio/static/js/2.5a08db1e.chunk.js",
+    "static/js/2.5a08db1e.chunk.js.map": "/GitHub-Education-Portfolio/static/js/2.5a08db1e.chunk.js.map",
+    "index.html": "/GitHub-Education-Portfolio/index.html",
+    "precache-manifest.1dfdccacd0595eda8b5b3b9ccfdddcc6.js": "/GitHub-Education-Portfolio/precache-manifest.1dfdccacd0595eda8b5b3b9ccfdddcc6.js",
+    "service-worker.js": "/GitHub-Education-Portfolio/service-worker.js",
+    "static/css/main.34de6062.chunk.css.map": "/GitHub-Education-Portfolio/static/css/main.34de6062.chunk.css.map",
+    "static/media/profile.jpg": "/GitHub-Education-Portfolio/static/media/profile.8a396670.jpg"
   }
 }
