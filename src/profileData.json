@@ -3,53 +3,40 @@
 		"firstName": "Anupam",
 		"lastName": "Dagar",
 		"phoneNumber": "+91-0123456789",
-		"bio": "I am experienced in leveraging agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition.",
+		"bio": "I am an opensource contributor and have contributed to Zulip, Hasura, Fossasia, Publiclab and many other projects. My tech stack includes Python and Javascript. Python for server side and scripting and Javascript for the frontend. I use Django framework for the server side development and React for the frontend development. I have also worked with GraphQL. I am a GitHub Campus Expert at my insititute where I am responsible for building on campus community. I am the lead organiser of Hack In The North Hackathon and the cofounder of Pragma Conference held at IIIT Allahabad.",
     "email": "dagaranupam@gmail.com",
     "linkedin": "https://linkedin.com/in/anupamdagar",
 		"github": "https://github.com/Anupam-dagar"
 	},
-	"experience": [{
-			"position": "Senior Web Developer",
-			"organization": "Intelitec Solutions",
-			"aboutWork": "Bring to the table win-win survival strategies to ensure proactive domination. At the end of the day, going forward, a new normal that has evolved from generation X is on the runway heading towards a streamlined cloud solution. User generated content in real-time will have multiple touchpoints for offshoring.",
-			"fromDate": "March 2013",
+	"experience": [
+		{
+				"position": "GitHub Campus Expert",
+				"organization": "GitHub",
+				"aboutWork": "Responsible for building the on campus community with the support of GitHub.",
+				"fromDate": "August 2018",
+				"toDate": "Present"
+		},
+		{
+			"position": "Opensource Developer Intern",
+			"organization": "Fossasia",
+			"aboutWork": "Contributing to Fossasia's open event server and frontend as an intern. Resolved numerous bugs and added new features to the eventyay platform.",
+			"fromDate": "June 2019",
 			"toDate": "Present"
 		},
 		{
-			"position": "Web Developer",
-			"organization": "Intelitec Solutions",
-			"aboutWork": "Capitalize on low hanging fruit to identify a ballpark value added activity to beta test. Override the digital divide with additional clickthroughs from DevOps. Nanotechnology immersion along the information highway will close the loop on focusing solely on the bottom line.",
-			"fromDate": "December 2011",
-			"toDate": "March 2013"
-		},
-		{
-			"position": "Junior Web Developer",
-			"organization": "Shout! Media Productions",
-			"aboutWork": "Podcasting operational change management inside of workflows to establish a framework. Taking seamless key performance indicators offline to maximise the long tail. Keeping your eye on the ball while performing a deep dive on the start-up mentality to derive convergence on cross-platform integration.",
-			"fromDate": "July 2010",
-			"toDate": "December 2011"
-		},
-		{
-			"position": "Web Design Intern",
-			"organization": "Shout! Media Productions",
-			"aboutWork": "Collaboratively administrate empowered markets via plug-and-play networks. Dynamically procrastinate B2C users after installed base benefits. Dramatically visualize customer directed convergence without revolutionary ROI.",
-			"fromDate": "September 2008",
-			"toDate": "June 2010"
+			"position": "Software Developer Intern",
+			"organization": "Hasura",
+			"aboutWork": "Worked on Hasura's GraphQL engine and added new features in it.",
+			"fromDate": "December 2018",
+			"toDate": "January 2019"
 		}
 	],
 	"education": [{
-			"university": "University of Colorado Boulder",
-			"degree": "Bachelor of Science",
-			"gpa": "9.83",
-			"fromDate": "August 2006",
-			"toDate": "May 2010"
-		},
-		{
-			"university": "James Buchanan High School",
-			"degree": "Technology Magnet Program",
-			"gpa": "8.88",
-			"fromDate": "August 2002",
-			"toDate": "May 2006"
+			"university": "Indian Institute of Information Technology Allahabad",
+			"degree": "Bachelor of Technology",
+			"gpa": "12.34",
+			"fromDate": "August 2016",
+			"toDate": "Present"
 		}
 	],
 	"skills": [{
@@ -62,19 +49,19 @@
 			"name": "Javascript"
 		},
 		{
-			"name": "Angular"
-		},
-		{
 			"name": "React"
 		},
 		{
 			"name": "Nodejs"
 		},
 		{
-			"name": "SCSS"
+			"name": "Python"
 		},
 		{
-			"name": "Less"
+			"name": "Django"
+		},
+		{
+			"name": "Ember"
 		}
 	],
 	"interests": {
@@ -82,25 +69,13 @@
 		"paragraphTwo": "When forced indoors, I follow a number of sci-fi and fantasy genre movies and television shows, I am an aspiring chef, and I spend a large amount of my free time exploring the latest technology advancements in the front-end web development world."
 	},
 	"awards": [{
-			"awardDetail": "Google Analytics Certified Developer"
+			"awardDetail": "Hack 36 3rd prize winner."
 		},
 		{
-			"awardDetail": "Mobile Web Specialist - Google Certification"
+			"awardDetail": "Mentor OpenCode'19"
 		},
 		{
-			"awardDetail": "1stPlace - University of Colorado Boulder - Emerging Tech Competition 2009"
-		},
-		{
-			"awardDetail": "1stPlace - University of Colorado Boulder - Adobe Creative Jam 2008 (UI Design Category)"
-		},
-		{
-			"awardDetail": "2ndPlace - University of Colorado Boulder - Emerging Tech Competition 2008"
-		},
-		{
-			"awardDetail": "1stPlace - James Buchanan High School - Hackathon 2006"
-		},
-		{
-			"awardDetail": "3rdPlace - James Buchanan High School - Hackathon 2005"
+			"awardDetail": "Started North India's First Student Design and Developer Conference."
 		}
 	]
 }

@@ -1,4 +1,7 @@
 import React, { Component } from 'react';
+import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
+import { faCheckCircle } from "@fortawesome/free-solid-svg-icons";
+
 
 class Skills extends Component {
   constructor(props) {
@@ -13,15 +16,18 @@ class Skills extends Component {
         <div className="w-100">
           <h2 className="mb-5">Skills</h2>
           <div className="subheading mb-3">Programming Languages &amp; Tools</div>
-          <ul className="list-inline dev-icons">
+          <div className="row">
           {
             this.skills.map((data, index) => (
-              <li key={index} className="list-item">
-                {data.name}
-              </li>
+              <div key={index} className="col-6">
+                <p className="list-item">
+                  <FontAwesomeIcon icon={faCheckCircle} color="green" />
+                  <span className="ml-3">{data.name}</span>
+                </p>
+              </div>
             ))
           }
-          </ul>
+          </div>
         </div>
       </section>
     );
