@@ -24,7 +24,7 @@ class App extends Component {
   render() {
     return (
       <div className="App">
-        <Sidebar/>
+        <Sidebar sidebarData={this.state.landingData} />
         <div className="container-fluid p-0">
           <Landing landingData={this.state.landingData} />
           <hr className="m-0" />
