@@ -18,6 +18,6 @@ The hosted version of this repository is live at [http://anupamdagar.com/GitHub-
 
 ## Blog Post
 The detailed blog post for the tutorial is at [medium link here](https://levelup.gitconnected.com/create-a-portfolio-using-react-and-github-student-developer-pack-955379207855)
-
+Please do learn
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).  
 The Bootstrap template used in this tutorial is [https://github.com/BlackrockDigital/startbootstrap-resume](https://github.com/BlackrockDigital/startbootstrap-resume)
